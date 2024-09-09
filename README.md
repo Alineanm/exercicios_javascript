@@ -5,3 +5,6 @@ Pastas com principais exercício que usei para aprender algorítimo utilizando J
 4 - Algorítimo que calcula a potencialização de um número fornecido, elevado ao expoente também fornecido. (Potenciacao)
 5 - Algoritimo que escolhe um número aleatorio e o usuário tenta acertas com 3 tentativas (adivinha_numero_aleatorio)
 6 - Algoritimo de um automatização de lista de compras para impressão organizada em tipos de categoria (lista_compra_por_categoria)
+7 - Algoritimo de um automatização de lista de compras, incluindo e excluindo itens e fornecendo a impressão organizada em tipos de categoria (lista_compra_por_categoria_2)
+8 - Algoritimo cria funções para cada uma das modalidades da calculadora e retorna o resultado (Calculadora)
+9 - Algoritimo que chama uma função que recebe como argumentos uma quantidade aleatoria de numeros retorna a média entre eles (media_turmas) 
